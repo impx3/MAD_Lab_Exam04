@@ -12,7 +12,7 @@ class NotesAdapter (private var notes: List<Note>, context:Context):RecyclerView
     class NoteViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val TV_title: Textview = itemView.findViewById(R.id.TV_title)
         val TV_content : Textview = itemView.findViewById(R.id.TV_content)
-        val updateBtn : ImageView = itemView.findViewById(R.id.updateSaveButton)
+        val updateBtn : ImageView = itemView.findViewById(R.id.updateButton)
     }
 
     override fun onCreateViewHolder (parent: ViewGroup, viewType: Int): NoteViewHolder{
