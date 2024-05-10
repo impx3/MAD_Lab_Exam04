@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-mergeDebugResources-30:\\layout\\note_item.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-main-33:\\layout\\note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-mergeDebugResources-30:\\layout\\activity_add_note.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-main-33:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-30:/layout/activity_update_note.xml",
+        "source": "com.example.todo.app-main-33:/layout/activity_update_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.todo.app-mergeDebugResources-30:/layout/activity_add_note.xml",
+        "source": "com.example.todo.app-main-33:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-mergeDebugResources-30:\\layout\\activity_update_note.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.4\\com.example.todo.app-main-33:\\layout\\activity_update_note.xml"
+    }
+]
